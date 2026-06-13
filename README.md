@@ -54,8 +54,3 @@ Here are some screenshots demonstrating the application's interface:
    ```bash
    make clean
    ```
-
-5. (Optional) Run the report generation script:
-   ```bash
-   python3 generate_report.py
-   ```
