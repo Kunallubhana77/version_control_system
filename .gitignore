@@ -1,0 +1,9 @@
+# Object files
+*.o
+
+# Executable
+vcs_app
+
+# OS generated files
+.DS_Store
+.vscode/
